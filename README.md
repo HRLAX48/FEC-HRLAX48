@@ -10,7 +10,9 @@
 
 **migoShop** is a showcase of front end capability utilizing React and various frameworks to build a retail site given a predetermined backend of data.
 
-https://user-images.githubusercontent.com/23022820/152660399-a1933037-f4b6-46f2-a0d0-4b3143bb823e.mp4
+
+https://user-images.githubusercontent.com/23022820/152660906-86ed6665-d38c-4ff5-b94c-1ec118ace3c7.mp4
+
 
 
 ## Getting Started
